@@ -1,13 +1,14 @@
 ---
-name: think-before-code
-description: Enforces thoughtful coding practices - think before coding, brevity first, surgical modifications, and goal-driven execution. Use this skill when starting any coding task, refactoring, bug fixing, or when the AI seems to be coding without sufficient analysis. Trigger phrases include "help me code", "fix this bug", "refactor this", "implement this feature", or when the AI's approach seems too hasty.
+description: Think Before Code - Behavioral guidelines to reduce common LLM coding mistakes
+globs: "**/*"
+alwaysApply: true
 ---
 
-# Think Before Code
+# Think Before Code - Cursor Rules
 
-Behavioral guidelines to reduce common LLM coding mistakes. Apply these principles before any coding task.
+Behavioral guidelines to reduce common LLM coding mistakes.
 
-**Tradeoff:** These guidelines bias toward caution over speed. For trivial tasks (typo fixes, obvious one-line changes), use judgment to skip unnecessary steps.
+**Tradeoff:** These guidelines bias toward caution over speed. For trivial tasks, use judgment.
 
 ## 1. Think Before Coding
 
