@@ -239,8 +239,6 @@ def calculate_discount(amount, percent):
 
 > "LLM 最擅长的就是循环直到目标达成。你给它成功标准，它会自己折腾到对为止；你给它步骤，它反而经常走到半路跑偏。"
 
-本项目的参考实现：[forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills)
-
 ---
 
 ## 📂 文件结构
@@ -371,7 +369,6 @@ A: 你可以在对话中提醒 AI：
 
 ## 🔗 相关项目
 
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - 本项目的参考实现
 - [WorkBuddy Documentation](https://www.codebuddy.cn/docs/workbuddy/skills) - WorkBuddy Skill 官方文档
 
 ---
